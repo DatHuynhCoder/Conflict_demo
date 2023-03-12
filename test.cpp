@@ -8,5 +8,6 @@ int main(){
     cout<<"Tong: "<<a+b;
     cout<<"Hieu: "<<a-b;
     cout<<"Hom nay la thu 7";
+    cout<<"Hom nay la thu 4";
     return 0;
 }
